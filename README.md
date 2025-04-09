@@ -77,11 +77,19 @@ This project demonstrates a **Smart Trolley System** using **RFID** technology, 
 ## 📋 Future Improvements
 
 - Support for multiple trolleys (multi-cart system)
-- Integration with cloud database or Android app
+- Integration with cloud database 
 - Barcode/QR support
 - Auto-checkout with payment gateway
 
 ---
+## bluetooth app 
+
+![image](https://github.com/user-attachments/assets/ab48aad8-0ba8-4356-a085-3b6d0d1bccbc)
+
+
+![image](https://github.com/user-attachments/assets/8d3853cd-0ef9-4595-8608-6f47f5dd50e8)
+
+
 
 
 
