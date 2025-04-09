@@ -5,7 +5,9 @@ This project demonstrates a **Smart Trolley System** using **RFID** technology, 
 
 ## 📸 Project Overview
 
-![Smart Trolley Hardware](./WhatsApp%20Image%202025-04-09%20at%2021.21.03_d50fa4c1.jpg)
+![Smart Trolley Hardware]
+
+![WhatsApp Image 2025-04-09 at 21 21 03_d50fa4c1](https://github.com/user-attachments/assets/c7f0bb7f-0645-42ad-9c4a-b5ffd7e3c9ab)
 
 ---
 
@@ -68,7 +70,7 @@ This project demonstrates a **Smart Trolley System** using **RFID** technology, 
 
 ## 📽️ Demo Video
 
-📹 *Video file uploaded separately as `WhatsApp Video 2025-04-09 at 21.21.02_55a23ef3.mp4`.*
+📹 *Video file uploaded separately as `demostration.mp4`.*
 
 ---
 
